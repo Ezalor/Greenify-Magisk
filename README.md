@@ -1,5 +1,5 @@
 # 内置绿色守护
-将绿色守护集成到 /system/priv-app 中。
+将绿色守护集成到 ```/system/priv-app``` 中。
 
 ## 更新日志
 v1
